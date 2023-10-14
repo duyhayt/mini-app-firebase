@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "561843030511",
+    "project_id": "mini-social-app-c171e",
+    "storage_bucket": "mini-social-app-c171e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561843030511:android:0aec67da381f787f060e1a",
+        "android_client_info": {
+          "package_name": "com.example.firebase_social_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC_RZNyQSUiD8FUTMcsN5gcG-DmQ1iwAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
